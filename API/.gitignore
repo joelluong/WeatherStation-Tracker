@@ -1,0 +1,19 @@
+# Ignore build outputs
+bin/
+obj/
+*.user
+*.suo
+
+# User secrets
+secrets.json
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# IDE Files
+.vscode/
+.idea/
